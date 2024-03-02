@@ -1,4 +1,4 @@
-<img src="[https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F52%2F39%2F00%2F1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg&tbnid=IKBMmYfVSQ-j4M&vet=12ahUKEwing6bnntWEAxVacWwGHfsqC8EQMygHegQIARBe..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fprogramming-code-abstract-technology-background-of-software-developer-and-computer-script-banner-3d-illustration%2F352390061&docid=EMabKSy_csjUmM&w=1000&h=350&q=programmer%20banner&client=safari&ved=2ahUKEwing6bnntWEAxVacWwGHfsqC8EQMygHegQIARBe)" >
+<img src="https://media.istockphoto.com/id/1442946345/photo/software-source-code-programming-code-programming-code-on-computer-screen-developer-working.jpg?s=1024x1024&w=is&k=20&c=AJlfU22bJ2VadcjSEIEn8Z-1wbgxWCMo4WTWkdAO3fo=" >
 <h1 align="center">Hi 👋, I'm Pravin Kumar Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 

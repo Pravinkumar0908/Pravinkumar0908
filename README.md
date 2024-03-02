@@ -1,4 +1,4 @@
-<img  src="[[https://media.istockphoto.com/id/1442946345/photo/software-source-code-programming-code-programming-code-on-computer-screen-developer-working.jpg?s=1024x1024&w=is&k=20&c=AJlfU22bJ2VadcjSEIEn8Z-1wbgxWCMo4WTWkdAO3fo=](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)">
+<img src="(https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)">
 <h1 align="center">Hi 👋, I'm Pravin Kumar Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 

@@ -1,4 +1,4 @@
-<img src="https://www.vecteezy.com/vector-art/677302-abstract-technology-banner-background">
+<img src="[https://www.vecteezy.com/vector-art/677302-abstract-technology-banner-background](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Fbackgrounds%2Fqiantu-blue-map-dot-matrix-technology-banner-background_2753309.html&psig=AOvVaw0S9QRpp0CYhpb5N2FoSMKk&ust=1709457952242000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC-zKKh1YQDFQAAAAAdAAAAABBA)">
 <h1 align="center">Hi 👋, I'm Pravin Kumar Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 

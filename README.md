@@ -1,3 +1,4 @@
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" >
 <h1 align="center">Hi 👋, I'm Pravin Kumar Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -13,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [prcreation977.netlify.app](prcreation977.netlify.app)
 
-- 📫 How to reach me **pravoinbairwa584@gmail.com**
+- 📫 How to reach me **pravinbairwa584@gmail.com**
 
 - ⚡ Fun fact **I think Am very Happy and my work is my Profession**
 
